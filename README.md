@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/qgQUGG4dbv5BLOY1Wo/giphy.gif" width="220" alt="QA Automation Avatar" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="180" alt="QA Laptop" />
 
 👋 Hi, I'm **Isabela Oliveira Barros**.
 
