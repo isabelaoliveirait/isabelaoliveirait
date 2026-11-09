@@ -1,8 +1,8 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="180" alt="QA Laptop" />
 
-👋 Hi, I'm **Isabela Oliveira Barros**.
+👋 Hi, I'm **Isabela de Oliveira Barros**.
 
-🧪 **Senior QA Software Engineer** with 8+ years of experience building scalable quality infrastructures, CI/CD Quality Gates, and leading international QA strategies (Germany/Austria).
+🧪 **Senior QA Software Engineer** with 7+ years of experience building scalable quality infrastructures, CI/CD Quality Gates, and leading international QA strategies (Germany/Austria).
 
 🤝 **Dual Impact (Solo & Cross-Functional Squads):** Beyond leading dedicated solo project initiatives, I actively work in parallel with specialized QA enablement teams to architect company-wide quality solutions, deliver internal QA consulting, and provide hands-on mentorship across squads.
 
@@ -58,6 +58,12 @@ Proficient across a broad software ecosystem including:
 
 ---
 
+### 🤝 Volunteering & Community Impact
+
+- 🟨 **QA Consultant & Mentor @ [Mundo QA](https://www.linkedin.com/company/mundo-qa/posts/):** Empowering beginners and professionals starting their tech journeys by providing hands-on career guidance, quality strategy mentorship, and knowledge sharing around test automation.
+
+---
+
 ### 📜 Certifications
 
 - 🏆 **ISTQB® Certified Tester Foundation Level (CTFL)** – Certible
@@ -73,3 +79,11 @@ Proficient across a broad software ecosystem including:
 - 🇬🇧 **English:** Advanced (C1)
 - 🇩🇪 **German:** Upper-Intermediate (B2)
 - 🇪🇸 **Spanish:** Intermediate (B1)
+
+---
+
+### 📫 Connect & Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelaoliveira26/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mundo_qa/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isa.oliver20@gmail.com)
