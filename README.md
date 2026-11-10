@@ -14,6 +14,8 @@
 
 💬 Ask me about **Cypress, Playwright, Selenium, CI/CD Quality Gates, Quality Strategy, and Agentic AI in QA**.
 
+🌐 **Personal Portfolio:** [isabelaoliveirait.github.io](https://isabelaoliveirait.github.io/)
+
 ---
 
 ### 🧰 Tools & Frameworks
